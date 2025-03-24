@@ -42,4 +42,4 @@ const userSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-module.exports = mongoose.model("Pg34User", userSchema);
+module.exports = mongoose.model("Pg35User", userSchema);
